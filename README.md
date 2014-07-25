@@ -13,7 +13,7 @@ The software is implemented using Rickshaw JS
 (http://code.shutterstock.com/rickshaw/) and also includes a basic Django
 (https://www.djangoproject.com) backend/server for development/demonstration
 purposes.
-Tyler.
+
 Author
 ======
 
