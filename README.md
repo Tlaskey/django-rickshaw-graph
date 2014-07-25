@@ -1,5 +1,5 @@
-django-rickshaw-graph
-=====================
+Django Rickshaw Graph (DRG)
+===========================
 
 A critical aspect of any cloud is the ability to visualize data about the
 resources under management (servers, disks, networks). In an OpenStack cloud,
@@ -13,3 +13,8 @@ The software is implemented using Rickshaw JS
 (http://code.shutterstock.com/rickshaw/) and also includes a basic Django
 (https://www.djangoproject.com) backend/server for development/demonstration
 purposes.
+
+Author
+======
+
+Tyler Laskey <tlaskey3@gmail.com>
